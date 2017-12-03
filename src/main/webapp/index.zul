@@ -38,6 +38,10 @@
                         <x:a id="namespace" href="#">Namespaces<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-th-large"></span>
                         </x:a>
                     </x:li>
+                    <!-- x:li >
+                        <x:a id="trace" href="#">Trace<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-th-large"></span>
+                        </x:a>
+                    </x:li -->
                 </ul>
             </div>
 
